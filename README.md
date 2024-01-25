@@ -26,7 +26,7 @@ The dataset is from https://pmpk.kemdikbud.go.id/sibi/.
 
 ## Additional Information
 
-Supported SIBI signs: A, B, C, D, E, F, G, H, I, **J NOT INCLUDE**, K, L, M, N, O, P, Q, R, S, T, U, V, X, Y, **Z NOT INCLUDE** 
+Supported SIBI signs: A, B, C, D, E, F, G, H, I, ~~J~~, K, L, M, N, O, P, Q, R, S, T, U, V, X, Y, ~~Z~~ 
 
 Future work: 
 - Add main.py to run the model
