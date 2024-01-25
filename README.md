@@ -1,4 +1,4 @@
-# SIBI Rekognition
+# SIBI Recognition
 
 ## Overview
 
@@ -11,15 +11,13 @@ To set up the required environment, follow these steps:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/sibi-rekognition.git
-Gunakan kode dengan hati-hati. Pelajari lebih lanjut
+git clone https://github.com/AJustiago/Sibi-Recognition.git
 ```
 
 2. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
-Gunakan kode dengan hati-hati. Pelajari lebih lanjut
 ```
 
 ## Dataset
